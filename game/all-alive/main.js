@@ -2510,7 +2510,7 @@ var link, jsGame; (function() {
 		function(e) {
 			e.asyncImage([{
 				id: "host",
-				src: "images/xiaoren.png"
+				src: "https://cdn.jsdelivr.net/gh/Jimlier/pub01/game/all-alive/xiaoren.png"
 			}]);
 			var t = ["host"],
 				n = [[[0, 0, 26, 37], [27, 0, 19, 36], [46, 0, 22, 38]]],
@@ -2544,7 +2544,7 @@ var link, jsGame; (function() {
 		function(e) {
 			e.asyncImage([{
 				id: "shine",
-				src: "images/wu.png"
+				src: "https://cdn.jsdelivr.net/gh/Jimlier/pub01/game/all-alive/wu.png"
 			}]);
 			var t = ["shine"],
 				n = [[[0, 20, 101, 64], [119, 19, 112, 66], [238, 13, 140, 80], [391, 0, 103, 100]]],
@@ -2840,11 +2840,11 @@ var link, jsGame; (function() {
 		function(e, t) {
 			e.init(window.innerWidth, window.innerHeight).pushImage([{
 					id: "logo",
-					src: "images/ygdbns.jpg"
+					src: "https://cdn.jsdelivr.net/gh/Jimlier/pub01/game/all-alive/ygdbns.jpg"
 				},
 					{
 						id: "btns1",
-						src: "images/gdyx.png"
+						src: "https://cdn.jsdelivr.net/gh/Jimlier/pub01/game/all-alive/gdyx.png"
 					}],
 				function(e, t, n) {}).initAudio([{
 					id: "1",
